@@ -7,4 +7,4 @@ Pymaceutical Analysis
 •	There were about 1% more males that received the drugs than females.
 
 
-For this assignment I consulted with a tutor, Kourt Bailey, 
+For this assignment I consulted with a tutor, Kourt Bailey.
